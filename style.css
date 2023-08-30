@@ -59,7 +59,7 @@ form input.equal{
 box-shadow: 0 8px 16px   black;
  }
  .calculator form input:hover{
-    box-shadow: 0 8px 16px  yellow;
+    box-shadow: 0 8px 12px  yellow;
      }
      
        
